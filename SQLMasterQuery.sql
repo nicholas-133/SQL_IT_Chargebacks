@@ -1,6 +1,6 @@
 -- 3 year historical data FY 17-18 thru FY 19-20
 -- (New database begun 2020-09-01)
--- Intended to be merged with data from new database for trend analysis
+-- Intended to be merged with data from new database
 -- Includes hours worked by Contractor Cost Centers
 -- Includes hours worked at a zero chargeback rate
 
