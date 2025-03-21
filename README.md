@@ -1,4 +1,4 @@
-# sql-IT-historical-chargebacks
+# sql-historical-IT-chargebacks
 
 This script was created to serve as a master query used for financial and resource management reports. This histrical report is cut off at the time of migration to a web application instead of on-premise.
 
